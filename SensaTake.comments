@@ -1,0 +1,3 @@
+mlkit will supersede Google vision with better on device support.
+Was able to build and install vision demo app with on device face derection.
+The code base is a hybrid of kotlin and java with java being dominant.
